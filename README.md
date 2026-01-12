@@ -34,9 +34,7 @@ O projeto foi dividido em 3 etapas, cada uma com objetivos específicos:
 
 A implementação do Amazon S3 Intelligent-Tiering, AWS Lambda e Amazon EC2 Graviton na Abstergo Industries resulta na **redução imediata e contínua dos custos operacionais, otimização do uso de recursos e aumento da eficiência na gestão de dados e processos**. Recomenda-se a continuidade do uso das ferramentas e a busca por novas tecnologias para aprimorar ainda mais os processos da empresa.
 
-## Anexos
 
-[Lista de anexos: manuais de configuração, diagramas de arquitetura, planilhas de estimativa de custos, entre outros]
 
 **Assinatura:**  
 [Gustavson Menezes]
